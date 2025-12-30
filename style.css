@@ -27,7 +27,7 @@ header {
     background-color: #8B4513; /* Coffee brown */
     color: white;
     padding: 1rem 0;
-    position: fixed;
+    
     width: 100%;
     top: 0;
     z-index: 1000;
